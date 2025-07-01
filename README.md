@@ -8,3 +8,5 @@ observed species compositions for each observation.
 This is a problem for some fisheries catch data, so that is the context of the code.
 
 The top script that requires running is 'Estimating Location from Species - TOP SCRIPT.R'.
+
+![Picture1](https://github.com/user-attachments/assets/fc73d30b-958c-4a30-a5aa-262dd56d9de3)
