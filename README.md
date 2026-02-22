@@ -1,5 +1,8 @@
 # Location_From_Species
-This code evaluates a few methods for predicting survey location from patterns in species composition.
+
+This code accompanies the article: "Smith J.A. (2026) Methods for estimating location from spatial patterns in species composition: a fishing location case study. Ecological Modelling."
+
+The article and this code evaluate a few methods for predicting survey location from patterns in species composition.
 
 It simulates count data with specified properties (such as the strength of the spatial signal in those counts)
 with both accurate and inaccurate location data. Three approaches are used to refine those locations given the
