@@ -1,6 +1,7 @@
 # Location_From_Species
 
 This code accompanies the article: "Smith J.A. (2026) Methods for estimating location from spatial patterns in species composition: a fishing location case study. Ecological Modelling."
+https://www.sciencedirect.com/science/article/pii/S0304380026000669
 
 The article and this code evaluate a few methods for predicting survey location from patterns in species composition.
 
